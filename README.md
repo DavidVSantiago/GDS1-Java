@@ -25,6 +25,6 @@ Após ter instalado as dependências, abra o projeto em um Ambiente de Desenvolv
 
 Os projetos não utilizam ```game engines``` ou bibliotecas de terceiros. Todos os algoritmos (_detecção de colisões, cálculos de ângulos e deslocamento, carregamento e recorte das imagens, Inteligencia Artificial_) foram desenvolvidos em código ```Java``` padrão.
 
-## Authors
+## Author
 
 Almir David Valente Santiago [@david_v_santiago](https://linktr.ee/david.santiago)
